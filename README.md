@@ -21,7 +21,7 @@ VOX files have been long associated with the Dialogic® DMV and JCT Media Boards
 Using this bash file you can convert a directory full of vox files ending with .V3(this is the default value you can change it) to wav or other formats.
 [reference](https://www.dialogic.com/support/helpweb/helpweb.aspx/394/vox_and_vap_files/en)
 
-#Installation
+# Installation
 In case you don't have ffmpeg installed on you os, install with the following commands:
 
 ```terminal
